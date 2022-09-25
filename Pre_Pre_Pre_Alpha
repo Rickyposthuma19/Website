@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Pre-Alpha</title>
+</head>
+<body>
+<h1>Welcome to Pre-Alpha!</h1>
+<! add an elemnt in the top right corner of the page >
+<div style="position:absolute; top:0; right:0; width:100px; height:100px; background-color:Grey; color:white; font-size:20px; text-align:center; vertical-align:middle; line-height:100px; z-index:1;">
+<p>Pre-Alpha is a new website that is currently under construction. Please check back later for updates.</p>
+</body>
+</html>
